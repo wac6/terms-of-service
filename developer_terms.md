@@ -57,7 +57,7 @@ Except as expressly permitted in these Developer Terms, you will not:
 
 ## Feedback
 
-We love feedback. Please let us know what you think of the API, these Developer Terms and, in general, App.net. When you provide us with any feedback, comments or suggestions about the API, these Developer Terms and, in general, App.net, you irrevocably assign to us all of your right, title and interest in and to your feedback, comments and suggestions.
+We love feedback. Please let us know what you think of the API, these Developer Terms and, in general, App.net. When you provide us with any feedback, comments or suggestions (collectively, 'Feedback') about the API, these Developer Terms and, in general, App.net, you grant to us, under any right, title or interest you may have in and to such Feedback, a non-exclusive, royalty-free, worldwide, transferable, sub-licensable, irrevocable, perpetual license to use that Feedback or to incorporate it into the API, these Developer Terms, or any of App.net's products or services.
 
 ## Developer Incentive Program
 
